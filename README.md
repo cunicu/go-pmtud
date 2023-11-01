@@ -1,8 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2023 Steffen Vogel <post@steffenvogel.de>
-SPDX-License-Identifier: Apache-2.0
--->
-
 # go-pmtud
 
 [![GitHub build](https://img.shields.io/github/actions/workflow/status/cunicu/go-pmtud/build.yaml?style=flat-square)](https://github.com/cunicu/go-pmtud/actions)
@@ -41,3 +36,6 @@ _go-pmtud_ is a Go package which implements portable methods for finding a paths
 ## License
 
 go-pmtud is licensed under the [Apache 2.0](./LICENSE) license.
+
+- SPDX-FileCopyrightText: 2023 Steffen Vogel <post@steffenvogel.de>
+- SPDX-License-Identifier: Apache-2.0
