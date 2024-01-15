@@ -3,7 +3,7 @@
 
 module cunicu.li/go-pmtud
 
-go 1.21.5
+go 1.21.6
 
 require (
 	github.com/pion/stun/v2 v2.0.0
