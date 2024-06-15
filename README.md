@@ -29,9 +29,9 @@ _go-pmtud_ is a Go package which implements portable methods for finding a paths
 
 - https://wiki.geant.org/display/public/EK/Path+MTU
 
-## Authors
+## Contact
 
--   Steffen Vogel ([@stv0g](https://github.com/stv0g))
+Please have a look at the contact page: [cunicu.li/docs/contact](https://cunicu.li/docs/contact).
 
 ## License
 
