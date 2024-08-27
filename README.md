@@ -37,5 +37,5 @@ Please have a look at the contact page: [cunicu.li/docs/contact](https://cunicu.
 
 go-pmtud is licensed under the [Apache 2.0](./LICENSE) license.
 
-- SPDX-FileCopyrightText: 2023 Steffen Vogel <post@steffenvogel.de>
+- SPDX-FileCopyrightText: 2023-2024 Steffen Vogel <post@steffenvogel.de>
 - SPDX-License-Identifier: Apache-2.0
