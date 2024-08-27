@@ -16,7 +16,7 @@ func SetDontFragment(c *net.UDPConn) error {
 
 	var err1, err2 error
 	err1 = rawConn.Control(func(fd uintptr) {
-		err2 = syscall.SetsockoptInt(int(fd), syscall.IPPROTO_IP, syscall.IP_MTU_DISCOVER, syscall.IP_PMTUDISC_PROBE)
+		err2 = syscall.SetsockoptInt(int(fd), syscall.IPPROTO_IP, syscall.IP_MTU_DISCOVER, syscall.IP_PMTUDISC_PROBE) //nolint:gosec
 	})
 
 	if err1 != nil {
