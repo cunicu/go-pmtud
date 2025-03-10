@@ -8,7 +8,7 @@ go 1.23.0
 require (
 	github.com/pion/stun/v3 v3.0.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/exp v0.0.0-20250228200357-dead58393ab7
+	golang.org/x/exp v0.0.0-20250305212735-054e65f0b394
 )
 
 require (
